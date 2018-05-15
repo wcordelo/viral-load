@@ -15,7 +15,7 @@ Please install the following software
 1) [Raspberry N00BS](https://www.raspberrypi.org/downloads/noobs/) - The operating software for Raspberry Pi
 2) [OpenCV](https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/) - OpenCV
 3) Blynk Software (from the App Store on your Mobile Phone)
-4) [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/raspberrypi/)
+4) [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/raspberrypi/) - The software that allows you to connect to your Raspberry Pi via your workstation (e.g. laptop, desktop)
 5) Python
 
 ### Running the Code
