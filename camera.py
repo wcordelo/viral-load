@@ -11,7 +11,7 @@ from PIL import Image
 from Adafruit_MotorHAT import Adafruit_MotorHAT, Adafruit_DCMotor, Adafruit_StepperMotor
 import atexit
 import os
-os.chdir ("/home/pi/Documents")
+os.chdir ("/home/pi/viral-load/photos")
 
 # create a default object, no changes to I2C address or frequency
 mh = Adafruit_MotorHAT()
