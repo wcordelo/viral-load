@@ -4,15 +4,15 @@ The Viral Load Project for HST.426 allows users to use a Blynk app to control a 
 
 ## Getting Started
 
-The following is needed to have the viral load contraption fully functional.
-1)* [Raspberry Pi 3 Model B](https://www.amazon.com/Raspberry-Pi-RASPBERRYPI3-MODB-1GB-Model-Motherboard/dp/B01CD5VC92/ref=sr_1_3?s=pc&ie=UTF8&qid=1526361583&sr=1-3&keywords=raspberry+pi+3)
-2) * [Linear Actuator Motor](https://www.amazon.com/gp/product/B01L6W1GRG/ref=ox_sc_act_title_3?smid=A16P4TUM521SQ8&psc=1)
+The following is needed to have the viral load contraption fully functional
+1)[Raspberry Pi 3 Model B](https://www.amazon.com/Raspberry-Pi-RASPBERRYPI3-MODB-1GB-Model-Motherboard/dp/B01CD5VC92/ref=sr_1_3?s=pc&ie=UTF8&qid=1526361583&sr=1-3&keywords=raspberry+pi+3)
+2)[Linear Actuator Motor](https://www.amazon.com/gp/product/B01L6W1GRG/ref=ox_sc_act_title_3?smid=A16P4TUM521SQ8&psc=1)
 
 ### Installing
 
 Please install the following software
-1) * [Raspberry N00BS](https://www.raspberrypi.org/downloads/noobs/) - The operating software for Raspberry Pi
-2) * [OpenCV](https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/) - OpenCV
+1) [Raspberry N00BS](https://www.raspberrypi.org/downloads/noobs/) - The operating software for Raspberry Pi
+2) [OpenCV](https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/) - OpenCV
 3) Blynk Software (from the App Store on your Mobile Phone)
 4) Python
 
